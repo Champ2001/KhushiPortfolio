@@ -1621,6 +1621,8 @@ body.loaded {
   font-size: 13px;
 }
 
+
+
 .main-post .info-area .tags span,
 .main-post .info-area .share-icon span {
   font-size: 14px;
@@ -4551,3 +4553,25 @@ img.left {
 .bara{
   font-size: 22px !important;
 }
+
+.khushi-bara{
+  font-size: 70px !important;
+}
+
+/* Awards */
+/* Add this CSS to your stylesheet */
+.awards {
+  display: flex;
+  flex-direction: column;
+}
+
+.award-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start; /* Align items to the start */
+  height: 100%;
+}
+
+
+
